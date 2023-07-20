@@ -1,0 +1,15 @@
+/home/cxl/FlightRecordParsingLib-master/dji-flightrecord-kit/build/Ubuntu/FRSample/CMakeFiles/FRSample.dir
+/home/cxl/FlightRecordParsingLib-master/dji-flightrecord-kit/build/Ubuntu/FRSample/CMakeFiles/edit_cache.dir
+/home/cxl/FlightRecordParsingLib-master/dji-flightrecord-kit/build/Ubuntu/FRSample/CMakeFiles/rebuild_cache.dir
+/home/cxl/FlightRecordParsingLib-master/dji-flightrecord-kit/build/Ubuntu/FRSample/StandardizationCppBuild/CMakeFiles/FlightRecordStandardizationCpp.dir
+/home/cxl/FlightRecordParsingLib-master/dji-flightrecord-kit/build/Ubuntu/FRSample/StandardizationCppBuild/CMakeFiles/edit_cache.dir
+/home/cxl/FlightRecordParsingLib-master/dji-flightrecord-kit/build/Ubuntu/FRSample/StandardizationCppBuild/CMakeFiles/rebuild_cache.dir
+/home/cxl/FlightRecordParsingLib-master/dji-flightrecord-kit/build/Ubuntu/FRSample/StandardizationCppBuild/StandardizationBuild/CMakeFiles/FlightRecordStandardization.dir
+/home/cxl/FlightRecordParsingLib-master/dji-flightrecord-kit/build/Ubuntu/FRSample/StandardizationCppBuild/StandardizationBuild/CMakeFiles/edit_cache.dir
+/home/cxl/FlightRecordParsingLib-master/dji-flightrecord-kit/build/Ubuntu/FRSample/StandardizationCppBuild/StandardizationBuild/CMakeFiles/rebuild_cache.dir
+/home/cxl/FlightRecordParsingLib-master/dji-flightrecord-kit/build/Ubuntu/FRSample/StandardizationCppBuild/StandardizationBuild/EngineBuild/CMakeFiles/FlightRecordEngine.dir
+/home/cxl/FlightRecordParsingLib-master/dji-flightrecord-kit/build/Ubuntu/FRSample/StandardizationCppBuild/StandardizationBuild/EngineBuild/CMakeFiles/edit_cache.dir
+/home/cxl/FlightRecordParsingLib-master/dji-flightrecord-kit/build/Ubuntu/FRSample/StandardizationCppBuild/StandardizationBuild/EngineBuild/CMakeFiles/rebuild_cache.dir
+/home/cxl/FlightRecordParsingLib-master/dji-flightrecord-kit/build/Ubuntu/FRSample/StandardizationCppBuild/standardProtobufBuild/CMakeFiles/DJIProtobuf.dir
+/home/cxl/FlightRecordParsingLib-master/dji-flightrecord-kit/build/Ubuntu/FRSample/StandardizationCppBuild/standardProtobufBuild/CMakeFiles/edit_cache.dir
+/home/cxl/FlightRecordParsingLib-master/dji-flightrecord-kit/build/Ubuntu/FRSample/StandardizationCppBuild/standardProtobufBuild/CMakeFiles/rebuild_cache.dir
